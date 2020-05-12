@@ -1,0 +1,11 @@
+Bismillah
+
+urgent, important, priority
+
+time, value
+
+low value , urgent
+high value, urgent
+
+low value, not urgent
+high value, not urgent
