@@ -3,3 +3,7 @@ Bismillah
 Goal list
 
 categories, urgency, value
+
+all task are not goal
+some goal translated to tasks
+all goals can be translated to tasks
